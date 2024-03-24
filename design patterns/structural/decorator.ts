@@ -40,3 +40,5 @@ const da = new ConcreteDecorator1(a);
 const db = new ConcreteDecorator2(da);
 
 db.doThis();
+
+
