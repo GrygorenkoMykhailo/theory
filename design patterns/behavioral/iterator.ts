@@ -56,4 +56,3 @@ while (!iterator.isDone()) {
     const nextElement = iterator.getNext();
     console.log(nextElement); 
 }
-
